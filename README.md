@@ -19,6 +19,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<img src='Wordle2_gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
@@ -28,7 +29,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2002] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
